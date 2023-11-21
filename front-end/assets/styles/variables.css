@@ -1,0 +1,17 @@
+:root {
+    /* Screen Sizes */
+    --xs: 480px;
+    --small: 600px;
+    --md: 720px;
+    --large: 1024px;
+    --xl: 1440px;
+
+    /* Grey Color Pallet */
+    --grey-100: #e1e1e1;
+    --grey-200: #d4d4d4;
+    --grey-400: #b5b5b5;
+    --grey-1000: #555;
+
+    /* Blue Color Pallet */
+    --blue-500: #348feb;
+}

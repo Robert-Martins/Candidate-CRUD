@@ -1,0 +1,22 @@
+table {
+    min-width: 60%;
+    max-height: 80%;
+    text-overflow: ellipsis;
+    border-spacing: 0;
+}
+
+table > thead {
+    min-height: 20%;
+    border: 1px solid black;
+    border-radius: 4px;
+    background-color: var(--grey-100);
+}
+
+table > thead th {
+    color: black;
+    padding: 12px;
+}
+
+table > tbody {
+    max-height: 80%;
+}
